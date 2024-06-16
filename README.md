@@ -1,6 +1,6 @@
-# QueryGenie
+# QueryGenie Bot
 
-Welcome to the Question and Answering Bot project! This project utilizes a Large Language Model (LLM) to answer questions based on a provided question and answer document. Below, you'll find the requirements and steps needed to set up and run the project.
+Welcome to the QueryGenie Bot project! This project utilizes a Large Language Model (LLM) to answer questions based on a provided question and answer document. Below, you'll find the requirements and steps needed to set up and run the project.
 
 ## Requirements
 
@@ -69,7 +69,7 @@ docker run -it \
 
 ## Usage
 
-Once your environment is set up and the necessary services are running, you can start using the Question and Answering bot by interacting with the Jupyter Notebook interface. The bot will utilize the LLM model to provide answers based on the provided document.
+Once your environment is set up and the necessary services are running, you can start using the QueryGenie bot by interacting with the Jupyter Notebook interface. The bot will utilize the LLM model to provide answers based on the provided document.
 
 Feel free to modify the project to suit your needs and explore different configurations or alternative models as required.
 
